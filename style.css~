@@ -1,0 +1,30 @@
+body{
+	color: ;
+	text-align: ;
+	font-family: "Arial" , Arial , serif ;
+	background-color: rgb(230 , 230 , 230);
+	margin: 80px 80px ;
+	padding: 180px 180px ;
+	border-top: 2px solid grey;
+	border-right: 2px solid grey;
+	border-bottom: 2px solid grey;
+	border-left: 2px solid grey;
+	border-color: solid black ;
+}
+h2{
+	color: solid black ;
+	text-align: center ;
+	font-family: "Times New Roman" , Times , serif ;
+
+}
+h3{
+	color: ;
+	text-align: center;
+	font-family: "Times New Roman" , Times , serif ;
+}
+picture{
+	border-radius: 50;
+}
+div "card-white" {
+	border-color: solid black;
+}

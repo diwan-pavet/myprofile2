@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="style.css">
+			<title> Hey I am Diwan ! </title>
+			<meta charset="utf-8">
+	</head>
+	<body> 
+		
+		<picture> 
+					<center>
+					<source media="(min-width: 350px)" srcset="pictureofme.jpg">
+					<source media="(min-width: 200px)" srcset="pictureofme.jpg">
+					<img src="pictureofme.jpg" alt="Picture of me" width="250" height="215">
+				</center>
+		<p>
+		<center> 
+			<strong> Hello my name is Diwan </strong>
+		</center>
+		</p>
+		 <p> 
+		 	<center> 
+		 		<strong> And this is the <strike> worst </strike> best profile you've ever seen !
+		 		</strong>
+		 	</center>
+		</p>
+		<div class="container">
+			<div class="card-white">
+				<h2> Music </h2>
+				<p>  
+					I love music. It has a huge place in my heart because I can feel so much emotions through the notes. It may be related to my childhood when my parents used to always put some happy music and teach me how to play piano. Now i don't play anymore but I kind dig everywhere possible to find new songs, artists and types of music to increase my whole music library. <br> However I love american trap music and below you'll find one of my favorite title of all time ! 
+				</p>
+				<center>
+					<picture> 
+					<source media="(min-width: 350px)" srcset="Champion.jpg">
+					<source media="(min-width: 200px)" srcset="Champion.jpg">
+					<img src="Champion.jpg" alt="Champion" width="200" height="175">
+					</picture>
+				</center>
+				<center>
+					<audio controls>  
+					<source src="Champion - NAV ft. Travis Scott.mp3" type="audio/mpeg">
+					</audio>
+				</center>
+			</div>
+			<div class="card-white">
+				<h2> Sports </h2>
+				<center>
+					<picture>
+						<source media="(min-width: 350px)" srcset="IMG-1275.jpg">
+						<source media="(min-width: 200px)" srcset="IMG-1275.jpg">
+						<img src="IMG-1275" alt="My Handball team" height="300" width="380">
+					</picture>
+				</center>
+				<p>
+					I've always been an athlete since a really young age. I started with Judo and kept practicing it during 10 years. I also learnt to swim at 5 years old and kept swimming twice a week until now.
+					Then I started handball five years ago and I still play handball now. I keep training now to reach a high level and carry my team to the top of the best universities in France. <br> I'm also really into Calisthenics, it's a mix of gymnastics and fitness. I'm aiming at having a good health with a nice and balanced body.
+				</p>
+			</div>
+			<div class="card-white"> 
+				<h2> Sneakers </h2>
+				<picture> 
+					<center>
+					<source media="(min-width: 350px)" srcset="AirJordanLAtoChicago.jpg">
+					<source media="(min-width: 200px)" srcset="AirJordanLAtoChicago.jpg">
+					<img src="AirJordanLAtoChicago.jpg" alt="Sneakers" width="200" height="180">
+					</center>
+				</picture>
+				<p> 
+					It's been about 4 years now that I fell in love with sneakers and streetwear. I look for every release of any sneaker and even more when it is about collaborations between artists and brands like Nike or Adidas. <br> I try to avoid spending too much money on other things so I can afford more rare sneakers and add them to my collection. 
+				</p>
+			</div>
+			<div class="card-black">
+				<h3> Follow me </h3>
+				<address> 
+					Written by <a href="mailto:diwan.pavet-blanchet@ieseg.fr"> Diwan Pavet-Blanchet</a> <br>
+					Visit me at :
+					diwan.pavet-blanchet@ieseg.fr
+					1 Passage de l'Arche, La Défense
+					FRANCE
+				</address>
+			</div>
+	</body>
+</html>
