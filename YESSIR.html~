@@ -1,0 +1,53 @@
+/<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="stylesheetkultur.css">
+	<title> YESSIR | The best place to buy the latest sneakers </title>
+	<meta charset="utf-8">
+</head>
+<body>
+	<div class="container">
+		<div class="card-white ">
+			<h2> <center> UPCOMING RELEASES </center> </h2>
+				<center>
+					<picture> 
+						<source media="(min-width: 350px)" srcset="download.jpg">
+						<source media="(min-width: 200px)" srcset="download.jpg">
+						<img src="download.jpg" alt="Air Jordan 1 x Dior" width="300" height="200">
+					</picture>
+				</center>
+		</div> 
+		<div class="card-white ">
+			<h2> <center> LATEST RELEASES </center> </h2>
+				<center>
+					<picture> 
+						<source media="(min-width: 350px)" srcset="download.jpg">
+						<source media="(min-width: 200px)" srcset="download.jpg">
+						<img src="download.jpg" alt="Air Jordan 1 x Dior" width="300" height="200">
+					</picture>
+				</center>
+		</div> 
+		<div class="card-white ">
+			<h2> <center> SNEAKERS </center> </h2>
+				<center>
+					<picture> 
+						<source media="(min-width: 350px)" srcset="download.jpg">
+						<source media="(min-width: 200px)" srcset="download.jpg">
+						<img src="download.jpg" alt="Air Jordan 1 x Dior" width="300" height="200">
+					</picture>
+				</center>
+		</div> 
+		<div class="card-white ">
+			<h2> <center> STREETWEAR </center> </h2>
+				<center>
+					<picture> 
+						<source media="(min-width: 350px)" srcset="download.jpg">
+						<source media="(min-width: 200px)" srcset="download.jpg">
+						<img src="download.jpg" alt="Air Jordan 1 x Dior" width="300" height="200">
+					</picture>
+				</center>
+		</div> 
+	</div>
+
+</body>
+</html>
